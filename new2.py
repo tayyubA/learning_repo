@@ -3,3 +3,9 @@ def main():
     return var +1
 
 main()
+
+
+def new():
+    pass
+
+new()
